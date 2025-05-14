@@ -1,2 +1,3 @@
 # NAVTTC1
-For Educational Purpose
+My first repository in github <br>
+This is easy to way to share our experiences<br>
